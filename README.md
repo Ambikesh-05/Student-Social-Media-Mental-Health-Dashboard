@@ -31,10 +31,10 @@ The dashboard highlights the following key metrics:
 | KPI | Value |
 |---|---:|
 | Total Students | 5K |
-| Average Social Media Usage | 5.1 hours|
-| Average Mental Health Score | 6.0 hours|
-| Average Sleep Hours | 6.6 hours|
-| Average Study Hours | 3.0 hours|
+| Average Social Media Usage | 5.1 hours/perday|
+| Average Mental Health Score | 6.0 hours/perday|
+| Average Sleep Hours | 6.6 hours/perday|
+| Average Study Hours | 3.0 hours/perday|
 
 ## 📈 Dashboard Visualizations
 
